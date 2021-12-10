@@ -7,6 +7,7 @@ Instrucciones para correr proyecto
 Ejecutar desde terminal:
 
 rpm install 
+
 node Servicio.js
 
 Abrir desde navegador o cliente http://127.0.0.1:3000/

@@ -17,11 +17,11 @@ Si queremos probar el servicio via post con un cliente como postman
 
 rpm install 
 
-node Servicio.js
+node ServicioPost.js
 
 agregar como parametro en el body:
 
-{"text":"Mensaje Personalizado"}s
+{"text":"Mensaje Personalizado"}
 
 
 

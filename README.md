@@ -6,11 +6,24 @@ Instrucciones para correr proyecto
 
 Ejecutar desde terminal:
 
+Para el servicio default web
 rpm install 
 
 node Servicio.js
 
 Abrir desde navegador o cliente http://127.0.0.1:3000/
+
+Si queremos probar el servicio via post con un cliente como postman
+
+rpm install 
+
+node Servicio.js
+
+agregar como parametro en el body:
+
+{"text":"Mensaje Personalizado"}s
+
+
 
 
 <!--

@@ -1,4 +1,16 @@
-### Hi there 👋
+### TAREA CURSO NIVELADOR 👋
+### JOSE ARMANDO GIRON MELENDEZ 👯
+
+
+Instrucciones para correr proyecto
+
+Ejecutar desde terminal:
+
+rpm install 
+node Servicio.js
+
+Abrir desde navegador o cliente http://127.0.0.1:3000/
+
 
 <!--
 **jgironmelendez/jgironmelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

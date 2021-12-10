@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "express": "^4.17.1"
+  },
+  "name": "jgironmelendez",
+  "version": "1.0.0",
+  "description": "TAREA CURSO NIVELADOR",
+  "main": "Servicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgironmelendez/jgironmelendez.git"
+  },
+  "keywords": [
+    "TAREA",
+    "CURSO",
+    "NIVELADOR"
+  ],
+  "author": "JOSE ARMANDO GIRON MELENDEZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgironmelendez/jgironmelendez/issues"
+  },
+  "homepage": "https://github.com/jgironmelendez/jgironmelendez#readme"
+  
+}

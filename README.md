@@ -18,9 +18,11 @@ node ServicioPost.js
 
 # IMPORTANTE body EL PARAMETRO  text Y COLOCAR EL MENSAJE QUE SE DESEA MOSTRAR:
 Metodo: Post 
+
 Url: http://127.0.0.1:3000/
 
 json mediante Body:
+
 {"text":"Mensaje Personalizado"}
 
 

@@ -6,7 +6,7 @@
   "name": "jgironmelendez",
   "version": "1.0.0",
   "description": "TAREA CURSO NIVELADOR",
-  "main": "Servicio.js",
+  "main": "ServicioPost.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
